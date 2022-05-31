@@ -168,8 +168,3 @@ public class OneHolder extends BaseHolder<String> {
 
 ![](http://ww3.sinaimg.cn/large/65e4f1e6gw1fa2830rtbhg207t0e0h1y.gif)
 
-##结束
-1. 如果你喜欢我文章的话就关注我的微信公共号吧
-2. 我在微信公共号里，等你，下面是微信公共号的二维码，扫码即可关注
-
-![](http://ww1.sinaimg.cn/large/65e4f1e6gw1f9btkbltksj2076076aaj.jpg)
